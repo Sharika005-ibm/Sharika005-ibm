@@ -35,7 +35,9 @@ Data-driven business insights
 📫 Connect With Me
 
 GitHub: Sharika005-ibm
+
 Email: sharikamazumder619@gmail.com
+
 LinkedIn: YourLinkedInProfile
 
 ⭐ “Turning data into decisions, and ideas into impact.”
