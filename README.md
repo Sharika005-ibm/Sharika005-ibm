@@ -1,6 +1,6 @@
 ## Hi there 👋
 Hi, I'm Sharika Mazumder 👋
-https://www.michiganstateuniversityonline.com/resources/business-analytics/what-is-business-analytics/
+<img width="450" height="245" alt="image" src="https://github.com/user-attachments/assets/0062ef71-6a72-467e-82f0-6b66f83bad06" />
 
 🎓 BBA Student | Business Analytics Specialization
 Passionate about business, data, and technology, with a growing interest in data analytics, strategic decision-making, and digital innovation. Currently pursuing a Bachelor of Business Administration (BBA) with a specialization in Business Analytics, building skills in data-driven problem-solving, market analysis, and business strategy.
