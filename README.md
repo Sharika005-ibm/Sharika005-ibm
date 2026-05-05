@@ -34,7 +34,7 @@ Data-driven business insights
 
 📫 Connect With Me
 
-GitHub: YourGitHubUsername
+GitHub: Sharika005-ibm
 
 LinkedIn: YourLinkedInProfile
 
